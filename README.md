@@ -10,11 +10,11 @@
 ## Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmbi-glitch&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NiamhFerns&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbi-glitch&hide_border=true&layout=compact&theme=synthwave" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiamhFerns&hide_border=true&layout=compact&theme=synthwave" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
