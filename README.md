@@ -18,7 +18,8 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=NiamhFerns&&style=flat-square)  
 
 ## Projects
