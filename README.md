@@ -39,7 +39,7 @@ have had time for.
 ### [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
 This was a simple implementation of a multi-process server done in C for my Network Engineering 241 course. I had a good amount of fun with this one too. Not super complicated but I thought it was neet.
 
-### [https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge](Chip's Challenge)
+### [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
 This was a major group work project where myself and 5 other students were given a few weeks to fully implement the Chip's Challenge game from scratch. The group work aspect for this one in particular was a fair challenge 
 as given this was a bigger project, I got a taste of developing something at a graeter scale than what is common at University. 
 
