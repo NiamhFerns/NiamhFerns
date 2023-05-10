@@ -19,6 +19,7 @@
 </td></tr></table>  
 
 <br/>  
+![Profile views counter](https://komarev.com/ghpvc/?username=NiamhFerns&&style=flat-square)  
 
 ## Projects
 ### [Robo Game Code Parser](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/RoboGame)
