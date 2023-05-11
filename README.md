@@ -44,7 +44,9 @@ An implementation of A*, Kosaraju's, and an articulation point finding algorithm
 ### 🖥️ [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
 *Language(s):* C
 
-Simple implementation of a multi-process server done in C for my Network Engineering 241 course. I had a good amount of fun with this one too. Not super complicated but I thought it was neet.
+Simple implementation of a multi-process server done in C for my Network Engineering 241 course.
+
+**Grade:** *Not yet released.*
 
 ### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
 *Langauges(s):* Java
@@ -57,16 +59,21 @@ Remake of the old Chip's Challenge retro game for a major group project with 5 o
 
 ### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
 *Language(s):* Rust
+
 Simple implementation of a k.N.N classifier that can be used to classify wines into 3 different classes based on 13 individual features.
 
 **Grade:** 100% for Wine Classifier Task.
 
 ### ⚙️ [Neovim Config](https://github.com/NiamhFerns/nvim)
 *Language(s):* Lua, Vimscript
+
 *Tools:* Neovim
+
 My own personal Neovim config with heavy inspiration taken from [Chris Chiarulli's](https://github.com/ChristianChiarulli) basic IDE config. Not so much a project but I'm proud of it.
 
 ### 🗃️ [Sesh.nvim](https://github.com/NiamhFerns/sesh.nvim)
 *Language(s):* Lua, Vimscript
+
 *Tools:* Neovim
+
 Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
