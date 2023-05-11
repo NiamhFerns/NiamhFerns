@@ -28,7 +28,7 @@
 
 *Libraries:* Swing
 
-Robot wars game with my implementation of a parser and language interpreter for a custom language that is used to control the robots.
+Robot wars game with my implementation of a parser and language interpreter for a custom language that is used to control the robots for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A (88%)
 
@@ -37,14 +37,14 @@ Robot wars game with my implementation of a parser and language interpreter for 
 
 *Libraries:* JavaFX
 
-An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on metlinks publically available transport network data.
+An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on metlinks publically available transport network data for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A+ (90%) 
 
 ### 🖥️ [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
 *Language(s):* C
 
-Simple implementation of a multi-process server done in C for my Network Engineering 241 course.
+Simple implementation of a multi-process server done in C for my [NWEN241](https://www.wgtn.ac.nz/courses/nwen/241/2023/offering?crn=18315) course.
 
 **Grade:** *Not yet released.*
 
@@ -53,14 +53,14 @@ Simple implementation of a multi-process server done in C for my Network Enginee
 
 *Libraries:* Swing
 
-Remake of the old Chip's Challenge retro game for a major group project with 5 other students in SWEN225.
+Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
 
 **Grade:** A-
 
 ### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
 *Language(s):* Rust
 
-Simple implementation of a k.N.N classifier that can be used to classify wines into 3 different classes based on 13 individual features.
+Simple implementation of a k.N.N classifier that can be used to classify wines into 3 different classes based on 13 individual features completed for [COMP307](https://www.wgtn.ac.nz/courses/comp/307/2023/offering?crn=968).
 
 **Grade:** 100% for Wine Classifier Task.
 
