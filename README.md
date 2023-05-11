@@ -55,7 +55,7 @@ Simple implementation of a multi-process server done in C for my [NWEN241](https
 
 Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
 
-**Grade:** A-
+**Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
 
 ### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
 *Language(s):* Rust
