@@ -37,7 +37,7 @@ Robot wars game with my implementation of a parser and language interpreter for 
 
 *Libraries:* JavaFX
 
-An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on metlinks publically available transport network data for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
+An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on Metlink's publically available transport network data for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A+ (90%) 
 
