@@ -25,7 +25,7 @@
 ## Projects
 ### University
 #### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
-<div align="center">  
+<div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
 </div> 
 
@@ -34,7 +34,7 @@ Remake of the old Chip's Challenge retro game for a major group project with 5 o
 **Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
 
 #### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
-<div align="center">  
+<div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
 </div> 
 
@@ -43,7 +43,7 @@ Simple implementation of a k.N.N classifier that can be used to classify wines i
 **Grade:** 100% for Wine Classifier Task.
 
 #### 🚌 [Wellington Transport Route Finder](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/WellingtonTransport)
-<div align="center">  
+<div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
 </div> 
 
@@ -52,7 +52,7 @@ An implementation of A*, Kosaraju's, and an articulation point finding algorithm
 **Grade:** A+ (90%) 
 
 #### 🤖 [Robo Game Code Parser](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/RoboGame)
-<div align="center">  
+<div align="lefpt">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
 </div> 
 
@@ -61,7 +61,7 @@ Robot wars game with my implementation of a parser and language interpreter for 
 **Grade:** A (88%)
 
 #### 🖥️ [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
-<div align="center">  
+<div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />  
 </div> 
 
