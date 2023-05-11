@@ -7,20 +7,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## Languages/Tools
-<div align="center">
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
-<img style="margin: 30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
-</div> 
+## Stats & Experience
 
-## Stats
+![Profile views counter](https://komarev.com/ghpvc/?username=NiamhFerns&&style=flat-square)  
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NiamhFerns&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
@@ -33,7 +23,17 @@
 
 <br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NiamhFerns&&style=flat-square)  
+<div align="center">
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
+<img style="margin: 30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
+</div> 
 
 ## Projects
 ### University
