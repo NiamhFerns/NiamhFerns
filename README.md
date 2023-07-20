@@ -30,6 +30,7 @@
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /> 
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -52,9 +53,14 @@ Remake of the old Chip's Challenge retro game for a major group project with 5 o
 #### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
 <div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
-</div> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="30" /> 
+</div>
+
 
 Simple implementation of a k.N.N classifier that can be used to classify wines into 3 different classes based on 13 individual features completed for [COMP307](https://www.wgtn.ac.nz/courses/comp/307/2023/offering?crn=968).
+
+I've also done a [rewrite in C#](https://github.com/NiamhFerns/wine-sharpifier) for this project.
 
 **Grade:** 100% for Wine Classifier Task.
 
