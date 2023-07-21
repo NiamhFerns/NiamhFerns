@@ -40,16 +40,23 @@
 </div> 
 
 ## Projects
+### Personal
+#### ⚙️ [Nekovim](https://github.com/NiamhFerns/Nekovim)
+*Language(s):* Lua
+
+*Tools:* Neovim
+
+My own personal Neovim config that I'm working on slowly over time. I'd like to eventually turn this into a "neovim flavour" for other people to use as well.
+
+#### 🗃️ [Sesh.nvim](https://github.com/NiamhFerns/sesh.nvim)
+***Development currently paused.***
+*Language(s):* Lua
+
+*Tools:* Neovim
+
+Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
+
 ### University
-#### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
-<div align="left">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
-</div> 
-
-Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
-
-**Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
-
 #### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
 <div align="left">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
@@ -63,6 +70,15 @@ Simple implementation of a k.N.N classifier that can be used to classify wines i
 I've also done a [rewrite in C#](https://github.com/NiamhFerns/wine-sharpifier) for this project.
 
 **Grade:** 100% for Wine Classifier Task.
+
+#### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
+<div align="left">  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
+</div> 
+
+Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
+
+**Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
 
 #### 🚌 [Wellington Transport Route Finder](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/WellingtonTransport)
 <div align="left">  
@@ -90,18 +106,3 @@ Robot wars game with my implementation of a parser and language interpreter for 
 Simple implementation of a multi-process server done in C for my [NWEN241](https://www.wgtn.ac.nz/courses/nwen/241/2023/offering?crn=18315) course.
 
 **Grade:** *Not yet released.*
-
-### Personal
-#### ⚙️ [Neovim Config](https://github.com/NiamhFerns/Nekovim)
-*Language(s):* Lua, Vimscript
-
-*Tools:* Neovim
-
-My own personal Neovim config with heavy inspiration taken from [Chris Chiarulli's](https://github.com/ChristianChiarulli) basic IDE config. Not so much a project but I'm proud of it.
-
-#### 🗃️ [Sesh.nvim](https://github.com/NiamhFerns/sesh.nvim)
-*Language(s):* Lua, Vimscript
-
-*Tools:* Neovim
-
-Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
