@@ -23,32 +23,27 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,py,c,cpp,cs,dotnet,lua,html,css,git,github,gitlab,idea,linux,neovim,godot,)](https://skillicons.dev)
+#### Languages & Libraries
+[![My Skills](https://skillicons.dev/icons?i=java,rust,py,c,cpp,cs,dotnet,lua,html,css,mysql)](https://skillicons.dev)
+
+#### Software & Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,neovim,idea,vscode,godot)](https://skillicons.dev)
 
 ## Projects
 ### Personal
 #### ⚙️ [Nekovim](https://github.com/NiamhFerns/Nekovim)
-*Language(s):* Lua
-
-*Tools:* Neovim
+[![My Skills](https://skillicons.dev/icons?i=lua,neovim)](https://skillicons.dev)
 
 My own personal Neovim config that I'm working on slowly over time. I'd like to eventually turn this into a "neovim flavour" for other people to use as well.
 
 #### 🗃️ [Sesh.nvim](https://github.com/NiamhFerns/sesh.nvim)
-***Development currently paused.***
-*Language(s):* Lua
-
-*Tools:* Neovim
+[![My Skills](https://skillicons.dev/icons?i=lua,neovim)](https://skillicons.dev)
 
 Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
 
 ### University
 #### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
-<div align="left">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="30" /> 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet)](https://skillicons.dev)
 
 
 Simple implementation of a k.N.N classifier that can be used to classify wines into 3 different classes based on 13 individual features completed for [COMP307](https://www.wgtn.ac.nz/courses/comp/307/2023/offering?crn=968).
@@ -58,37 +53,29 @@ I've also done a [rewrite in C#](https://github.com/NiamhFerns/wine-sharpifier) 
 **Grade:** 100% for Wine Classifier Task.
 
 #### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
-<div align="left">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
-</div> 
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
 
 **Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
 
 #### 🚌 [Wellington Transport Route Finder](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/WellingtonTransport)
-<div align="left">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
-</div> 
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on Metlink's publically available transport network data for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A+ (90%) 
 
 #### 🤖 [Robo Game Code Parser](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/RoboGame)
-<div align="lefpt">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
-</div> 
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 Robot wars game with my implementation of a parser and language interpreter for a custom language that is used to control the robots for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A (88%)
 
 #### 🖥️ [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
-<div align="left">  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />  
-</div> 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 Simple implementation of a multi-process server done in C for my [NWEN241](https://www.wgtn.ac.nz/courses/nwen/241/2023/offering?crn=18315) course.
 
-**Grade:** *Not yet released.*
+**Grade:** A+ (95%)
