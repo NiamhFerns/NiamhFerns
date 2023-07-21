@@ -92,7 +92,7 @@ Simple implementation of a multi-process server done in C for my [NWEN241](https
 **Grade:** *Not yet released.*
 
 ### Personal
-#### ⚙️ [Neovim Config](https://github.com/NiamhFerns/nvim)
+#### ⚙️ [Neovim Config](https://github.com/NiamhFerns/Nekovim)
 *Language(s):* Lua, Vimscript
 
 *Tools:* Neovim
