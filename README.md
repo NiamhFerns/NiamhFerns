@@ -42,7 +42,7 @@ My own personal Neovim config that I'm working on slowly over time. I'd like to 
 Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
 
 ### University
-#### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns/course-work/tree/all/COMP-307/assignment-1/wine_classifier)
+#### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns-VUW/WineClassifier)
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet)](https://skillicons.dev)
 
 
@@ -52,28 +52,28 @@ I've also done a [rewrite in C#](https://github.com/NiamhFerns/wine-sharpifier) 
 
 **Grade:** 100% for Wine Classifier Task.
 
-#### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns/course-work/tree/all/SWEN-225/chips_challenge)
+#### 🙍‍♂️ [Chip's Challenge](https://github.com/NiamhFerns-VUW/ChipsChallenge)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 Remake of the old Chip's Challenge retro game for a major group project with 5 other students in [SWEN225](https://www.wgtn.ac.nz/courses/swen/225/2022/offering?crn=30043).
 
 **Grade:** A+ (Individual Mark), B+ (Overall Group Mark)
 
-#### 🚌 [Wellington Transport Route Finder](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/WellingtonTransport)
+#### 🚌 [Wellington Transport Route Finder](https://github.com/NiamhFerns-VUW/WellingtonTransport)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 An implementation of A*, Kosaraju's, and an articulation point finding algorithm to find travel routes on Metlink's publically available transport network data for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A+ (90%) 
 
-#### 🤖 [Robo Game Code Parser](https://github.com/NiamhFerns/course-work/tree/all/COMP-261/RoboGame)
+#### 🤖 [Robo Game Code Parser](https://github.com/NiamhFerns-VUW/RoboGame)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 Robot wars game with my implementation of a parser and language interpreter for a custom language that is used to control the robots for a [COMP261](https://www.wgtn.ac.nz/courses/comp/261/2023/offering?crn=18314) assignment.
 
 **Grade:** A (88%)
 
-#### 🖥️ [Simple Server](https://github.com/NiamhFerns/course-work/tree/all/NWEN-241/assignment-3)
+#### 🖥️ [Simple Server](https://github.com/NiamhFerns-VUW/NWEN241-Assignment-3)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 Simple implementation of a multi-process server done in C for my [NWEN241](https://www.wgtn.ac.nz/courses/nwen/241/2023/offering?crn=18315) course.
