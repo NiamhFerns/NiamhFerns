@@ -31,7 +31,7 @@
 
 ## Projects
 ### Personal
-#### ⚙️ [Nekovim](https://github.com/NiamhFerns/Nekovim)
+#### ⚙️ [Nekovim](https://github.com/Nekovim/Nekovim)
 [![My Skills](https://skillicons.dev/icons?i=lua,neovim)](https://skillicons.dev)
 
 My own personal Neovim config that I'm working on slowly over time. I'd like to eventually turn this into a "neovim flavour" for other people to use as well.
