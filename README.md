@@ -36,11 +36,6 @@
 
 My own personal Neovim config that I'm working on slowly over time. I'd like to eventually turn this into a "neovim flavour" for other people to use as well.
 
-#### 🗃️ [Sesh.nvim](https://github.com/NiamhFerns/sesh.nvim)
-[![My Skills](https://skillicons.dev/icons?i=lua,neovim)](https://skillicons.dev)
-
-Sesh.nvim should automatically restore sessions based on your project (as handled by project.nvim) and give you the option for global sessions. 
-
 ### University
 #### 🍷 [k.N.N Wine Classifier](https://github.com/NiamhFerns-VUW/WineClassifier)
 [![My Skills](https://skillicons.dev/icons?i=rust,cs,dotnet)](https://skillicons.dev)
