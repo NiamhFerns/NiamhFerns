@@ -24,7 +24,7 @@
 <br/>
 
 #### Languages & Libraries
-[![My Skills](https://skillicons.dev/icons?i=java,rust,py,c,cpp,cs,dotnet,lua,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,py,c,cpp,cs,dotnet,lua,html,css,javascript,react,mysql)](https://skillicons.dev)
 
 #### Software & Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,gitlab,neovim,idea,vscode,godot)](https://skillicons.dev)
